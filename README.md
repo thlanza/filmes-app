@@ -1,8 +1,7 @@
 # Filmes-app - plataforma de cadastro de filmes
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+O app consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários. Foi usado como base a aula do bootcamp Angular da Avanada, da Plataforma Digital Inovation One.
 
-O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
 Inicialmente eu segui apenas os passos do curso, mas depois acrescentei algumas coisas.
 Localmente eu criei um serviço, baseado na lib Puppeteer, que varre a lista de filmes do IMDb, 
 que é bem completa, e cadastra todas numa API. Cabe ressaltar também que a API original usava
